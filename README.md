@@ -1,0 +1,2 @@
+# Kursach
+Created with CodeSandbox
